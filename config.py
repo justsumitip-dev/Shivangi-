@@ -4,7 +4,7 @@ import os
 # Sirf yahi file edit karni hai (ya environment variables use karo).
 
 # @BotFather se NAYA token yahan daalo (purana /revoke kar do).
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8495990131:AAEADD1Jpp42MzpEFC6_q1Wa_l-59oh2o8E")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8495990131:AAGpz6IixglmM1oajQRrJDjHbaRU2yOdFlw")
 
 ADMIN_IDS = [8603893462]          # Admin numeric Telegram ID(s)
 LOG_CHANNEL = -1004175542309      # Naye user ka alert channel (-100...), nahi chahiye to 0
